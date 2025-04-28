@@ -29,7 +29,7 @@
         "url": "https://github.com/codigoencasa/bot-whatsapp/issues"
     },
     "dependencies": {
-        "@builderbot/bot": "workspace:^",
+        "@builderbot/bot": "https://github.com/NikhilSharma972/chatbotmain.git",
         "pg": "^8.11.5"
     },
     "devDependencies": {
